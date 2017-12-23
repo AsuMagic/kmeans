@@ -2,7 +2,7 @@
 
 This is a simple 2D visualization program for [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering).
 
-<p align="center">![Example image](screenshot.png)</p>
+![Example image](screenshot.png)
 
 This requires SFML and (probably) a compiler with C++1z support.
 
